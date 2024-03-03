@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO_notes_cours")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4208c71827da2c34f188f3422215d96472a935a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff49f1cd215d4d24254f7cc757f963e421060b0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO_notes_cours")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO_notes_cours")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
