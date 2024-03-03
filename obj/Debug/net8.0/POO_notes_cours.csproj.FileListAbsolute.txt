@@ -1,0 +1,15 @@
+/home/qmcptj/code/Humanidealife/POO_notes_cours/bin/Debug/net8.0/POO_notes_cours
+/home/qmcptj/code/Humanidealife/POO_notes_cours/bin/Debug/net8.0/POO_notes_cours.deps.json
+/home/qmcptj/code/Humanidealife/POO_notes_cours/bin/Debug/net8.0/POO_notes_cours.runtimeconfig.json
+/home/qmcptj/code/Humanidealife/POO_notes_cours/bin/Debug/net8.0/POO_notes_cours.dll
+/home/qmcptj/code/Humanidealife/POO_notes_cours/bin/Debug/net8.0/POO_notes_cours.pdb
+/home/qmcptj/code/Humanidealife/POO_notes_cours/obj/Debug/net8.0/POO_notes_cours.GeneratedMSBuildEditorConfig.editorconfig
+/home/qmcptj/code/Humanidealife/POO_notes_cours/obj/Debug/net8.0/POO_notes_cours.AssemblyInfoInputs.cache
+/home/qmcptj/code/Humanidealife/POO_notes_cours/obj/Debug/net8.0/POO_notes_cours.AssemblyInfo.cs
+/home/qmcptj/code/Humanidealife/POO_notes_cours/obj/Debug/net8.0/POO_notes_cours.csproj.CoreCompileInputs.cache
+/home/qmcptj/code/Humanidealife/POO_notes_cours/obj/Debug/net8.0/POO_notes_cours.sourcelink.json
+/home/qmcptj/code/Humanidealife/POO_notes_cours/obj/Debug/net8.0/POO_notes_cours.dll
+/home/qmcptj/code/Humanidealife/POO_notes_cours/obj/Debug/net8.0/refint/POO_notes_cours.dll
+/home/qmcptj/code/Humanidealife/POO_notes_cours/obj/Debug/net8.0/POO_notes_cours.pdb
+/home/qmcptj/code/Humanidealife/POO_notes_cours/obj/Debug/net8.0/POO_notes_cours.genruntimeconfig.cache
+/home/qmcptj/code/Humanidealife/POO_notes_cours/obj/Debug/net8.0/ref/POO_notes_cours.dll
