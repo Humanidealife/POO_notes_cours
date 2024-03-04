@@ -16,6 +16,19 @@ namespace POO_notes_cours
         Console.WriteLine("Je m'appelle : " + Nom);
         Console.WriteLine("J'ai : " + Age + " an(s)");
       }
+
+      // Constructeur par défaut
+      public Animal ()
+      {
+        Console.WriteLine("Exécution du constructeur par défaut");
+      }
+
+      public Animal (string Nom, int Age)
+      {
+        this.Nom = Nom;
+        this.Age = Age;
+      }
+
       // Console.ReadKey();
 
     }

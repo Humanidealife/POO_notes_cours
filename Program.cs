@@ -22,6 +22,10 @@ namespace POO_notes_cours // Remplacez MonNamespace par le nom de votre namespac
 
           monAnimal1.AfficheInfo();
 
+          // Constructeur par défaut.
+          Animal chien = new Animal("CC", 6);
+          chien.AfficheInfo();
+
           Console.ReadKey();
         }
     }
