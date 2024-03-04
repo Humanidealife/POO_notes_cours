@@ -4,7 +4,7 @@ using System.Text;
 
 namespace POO_notes_cours
 {
-    public class Animal
+    abstract class Animal
     {
       // Attributs
       private string _nom;

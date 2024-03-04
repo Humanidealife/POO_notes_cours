@@ -34,8 +34,9 @@ namespace POO_notes_cours // Remplacez MonNamespace par le nom de votre namespac
           poisson1.AfficheInfo();
           poisson1.Nager();
 
-          Animal animal3 =  new Animal("FF", 5);
-          animal3.AfficheInfo();
+          //  La class Animal est abstraite, on ne peut pas instancier un objet de cette class.
+          // Animal animal3 =  new Animal("FF", 5);
+          // animal3.AfficheInfo();
 
           Console.ReadKey();
         }
