@@ -68,9 +68,9 @@ namespace POO_notes_cours
       // }
 
       // Création des méthodes de class
-      public void AfficheInfo()
+      public virtual void AfficheInfo()
       {
-        Console.WriteLine("Je m'appelle : " + _nom);
+        Console.WriteLine("Je suis un animal, je m'appelle : " + _nom);
         Console.WriteLine("J'ai : " + _age + " an(s)");
       }
 
