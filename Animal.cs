@@ -10,6 +10,9 @@ namespace POO_notes_cours
       private string _nom;
       private int _age;
 
+      // modificaiteur protected
+      // protected string Surnom;
+
       // private int _experience;
 
       // On en peut plus modifier le Nom
@@ -86,6 +89,11 @@ namespace POO_notes_cours
         this._age = Age;
       }
 
+      // Modificateur d'accès protected peut aussi être utilisé par des méthodes
+      // protected void ProtectedMethod()
+      // {
+      //   Console.WriteLine();
+      // }
       // Console.ReadKey();
 
     }
