@@ -43,6 +43,12 @@ namespace POO_notes_cours // Remplacez MonNamespace par le nom de votre namespac
           pers.nom = "Toto";
           pers.Parler();
 
+          Operation op = new Operation();
+          op.Nb1 = 10;
+          op.Nb2 = 8;
+          op.Addition();
+          op.Soustraction();
+
           Console.ReadKey();
 
 
