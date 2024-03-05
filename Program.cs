@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO.Pipes;
+using StructDemo;
 
 namespace POO_notes_cours // Remplacez MonNamespace par le nom de votre namespace
 {
@@ -38,9 +39,13 @@ namespace POO_notes_cours // Remplacez MonNamespace par le nom de votre namespac
           // Animal animal3 =  new Animal("FF", 5);
           // animal3.AfficheInfo();
 
-
+          Personne pers = new Personne();
+          pers.nom = "Toto";
+          pers.Parler();
 
           Console.ReadKey();
+
+
         }
     }
 
@@ -58,5 +63,5 @@ namespace POO_notes_cours // Remplacez MonNamespace par le nom de votre namespac
         //     Console.WriteLine("J'ai : " + Age + " an(s)");
         //   }
         // }
-        
+
 }
