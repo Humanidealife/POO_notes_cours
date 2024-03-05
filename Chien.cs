@@ -25,7 +25,7 @@ namespace POO_notes_cours
     Console.WriteLine(Nom + " marche.");
   }
 
-  public override void AfficheInfo()
+  public sealed override void AfficheInfo()
   {
     Console.WriteLine("Je suis un chien, je m'appelle : " + Nom);
     Console.WriteLine("J'ai : " + Age + " an(s)");

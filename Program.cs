@@ -38,7 +38,25 @@ namespace POO_notes_cours // Remplacez MonNamespace par le nom de votre namespac
           // Animal animal3 =  new Animal("FF", 5);
           // animal3.AfficheInfo();
 
+
+
           Console.ReadKey();
         }
     }
+
+       // Test sealed
+        // class PetitChien : Chien
+        // {
+        //   public PetitChien(string nom, int age, int nrTatouage) : base (nom, age, nrTatouage)
+        //   {
+
+        //   }
+
+        //   public override void AfficheInfo()
+        //   {
+        //     Console.WriteLine("Je suis un chien, je m'appelle : " + Nom);
+        //     Console.WriteLine("J'ai : " + Age + " an(s)");
+        //   }
+        // }
+        
 }
